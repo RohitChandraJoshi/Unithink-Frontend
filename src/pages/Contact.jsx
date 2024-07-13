@@ -9,7 +9,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 
 import boardmeet from '../assets/pexels-expressivestanley-1454360.jpg';
-import './Booking.css'; // Assuming this file is in the same directory as Contact.js
+import './Booking.css'; 
 import { sendEmail } from './EmailService';
 function Contact() {
   const [errorMessage, setErrorMessage] = useState(null);

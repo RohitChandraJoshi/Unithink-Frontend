@@ -1,9 +1,9 @@
 import React from "react";
 import verti1 from "../assets/vertical1.png";
-import verti2 from "G:/Projects/Freelancing/unithink/Client/src/assets/partners.png";
-import verti3 from "G:/Projects/Freelancing/unithink/Client/src/assets/analysis.png";
-import verti4 from "G:/Projects/Freelancing/unithink/Client/src/assets/business.png";
-import "G:/Projects/Freelancing/unithink/Client/src/components/BookNow.css";
+import verti2 from "../assets/partners.png";
+import verti3 from "../assets/analysis.png";
+import verti4 from "../assets/business.png";
+import "../components/BookNow.css";
 
 function Categories() {
   return (

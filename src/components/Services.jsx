@@ -1,15 +1,15 @@
 import React from "react";
-import service from "G:/Projects/Freelancing/unithink/Client/src/assets/service.png";
-import service1 from "G:/Projects/Freelancing/unithink/Client/src/assets/service1.png";
-import service2 from "G:/Projects/Freelancing/unithink/Client/src/assets/service2.png";
-import service3 from "G:/Projects/Freelancing/unithink/Client/src/assets/service3.png";
-import service4 from "G:/Projects/Freelancing/unithink/Client/src/assets/service4.png";
-import service5 from "G:/Projects/Freelancing/unithink/Client/src/assets/service5.png";
-import service6 from "G:/Projects/Freelancing/unithink/Client/src/assets/service6.png";
-import service7 from "G:/Projects/Freelancing/unithink/Client/src/assets/service7.png";
-import service8 from "G:/Projects/Freelancing/unithink/Client/src/assets/service8.png";
-import service9 from "G:/Projects/Freelancing/unithink/Client/src/assets/service9.png";
-import service10 from "G:/Projects/Freelancing/unithink/Client/src/assets/service10.png";
+import service from "../assets/service.png";
+import service1 from "../assets/service1.png";
+import service2 from "../assets/service2.png";
+import service3 from "../assets/service3.png";
+import service4 from "../assets/service4.png";
+import service5 from "../assets/service5.png";
+import service6 from "../assets/service6.png";
+import service7 from "../assets/service7.png";
+import service8 from "../assets/service8.png";
+import service9 from "../assets/service9.png";
+import service10 from "../assets/service10.png";
 
 const services = [
   {

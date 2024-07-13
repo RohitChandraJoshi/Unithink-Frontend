@@ -5,24 +5,11 @@ import { HiMail } from 'react-icons/hi';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { Link } from 'react-router-dom';
-import { FaCheck } from "react-icons/fa";
-import heroimage from 'G:/Projects/Freelancing/unithink/Client/src/assets/fronback.png'
-import Booking from '../pages/Booking';
-import counsellingImage from 'G:/Projects/Freelancing/unithink/Client/src/assets/about1.png';
-import skillingImage from 'G:/Projects/Freelancing/unithink/Client/src/assets/about2.png';
-import admissionImage from 'G:/Projects/Freelancing/unithink/Client/src/assets/about3.png';
 import '../components/BookNow.css';
-import Counselling from 'G:/Projects/Freelancing/unithink/Client/src/assets/counselling.jpg'
-import course2 from '../assets/course-2.jpg'
-import course3 from '../assets/course-3.jpg'
-import rotated from '../assets/rotated.png'
-import skills from 'G:/Projects/Freelancing/unithink/Client/src/assets/skills.jpg'
-import business from 'G:/Projects/Freelancing/unithink/Client/src/assets/business.jpg'
-import university from 'G:/Projects/Freelancing/unithink/Client/src/assets/university.jpg'
 import { HiArrowCircleRight } from "react-icons/hi";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
-import comingsoon from 'G:/Projects/Freelancing/unithink/Client/src/assets/comingsoon.jpg'
+import comingsoon from '../assets/comingsoon.jpg'
 
 const Skilling = () => {
     const [errorMessage, setErrorMessage] = useState(null);

@@ -1,5 +1,5 @@
 import React from 'react';
-import 'G:/Projects/Freelancing/unithink/Client/src/pages/Terms.css';
+import '../pages/Terms.css';
 
 function PrivacyPolicy() {
   return (

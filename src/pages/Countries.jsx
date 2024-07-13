@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 import 'G:/Projects/Freelancing/unithink/Client/src/pages/CountryDetails.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
-import Logo from 'G:/Projects/Freelancing/unithink/Client/src/assets/logo.jpg'; // Ensure the correct path to the logo
+import Logo from '../assets/logo.jpg'; // Ensure the correct path to the logo
 
 function Countries() {
   const [countries, setCountries] = useState([]);

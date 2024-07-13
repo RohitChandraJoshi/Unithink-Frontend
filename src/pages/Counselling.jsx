@@ -5,34 +5,20 @@ import { HiMail } from 'react-icons/hi';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { Link } from 'react-router-dom';
-import { FaCheck } from "react-icons/fa";
-import heroimage from 'G:/Projects/Freelancing/unithink/Client/src/assets/fronback.png'
-import Booking from '../pages/Booking';
-import counsellingImage from 'G:/Projects/Freelancing/unithink/Client/src/assets/about1.png';
-import skillingImage from 'G:/Projects/Freelancing/unithink/Client/src/assets/about2.png';
-import admissionImage from 'G:/Projects/Freelancing/unithink/Client/src/assets/about3.png';
 import '../components/BookNow.css';
-import Counsellingimg from 'G:/Projects/Freelancing/unithink/Client/src/assets/counselling.jpg'
-import course2 from '../assets/course-2.jpg'
-import course3 from '../assets/course-3.jpg'
-import rotated from '../assets/rotated.png'
-import skills from 'G:/Projects/Freelancing/unithink/Client/src/assets/skills.jpg'
-import business from 'G:/Projects/Freelancing/unithink/Client/src/assets/business.jpg'
-import university from 'G:/Projects/Freelancing/unithink/Client/src/assets/university.jpg'
-import { HiArrowCircleRight } from "react-icons/hi";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
-import service from "G:/Projects/Freelancing/unithink/Client/src/assets/service.png";
-import service1 from "G:/Projects/Freelancing/unithink/Client/src/assets/service1.png";
-import service2 from "G:/Projects/Freelancing/unithink/Client/src/assets/service2.png";
-import service3 from "G:/Projects/Freelancing/unithink/Client/src/assets/service3.png";
-import service4 from "G:/Projects/Freelancing/unithink/Client/src/assets/service4.png";
-import service5 from "G:/Projects/Freelancing/unithink/Client/src/assets/service5.png";
-import service6 from "G:/Projects/Freelancing/unithink/Client/src/assets/service6.png";
-import service7 from "G:/Projects/Freelancing/unithink/Client/src/assets/service7.png";
-import service8 from "G:/Projects/Freelancing/unithink/Client/src/assets/service8.png";
-import service9 from "G:/Projects/Freelancing/unithink/Client/src/assets/service9.png";
-import service10 from "G:/Projects/Freelancing/unithink/Client/src/assets/service10.png";
+
+import service1 from "../assets/service1.png";
+import service2 from "../assets/service2.png";
+import service3 from "../assets/service3.png";
+import service4 from "../assets/service4.png";
+import service5 from "../assets/service5.png";
+import service6 from "../assets/service6.png";
+import service7 from "../assets/service7.png";
+import service8 from "../assets/service8.png";
+import service9 from "../assets/service9.png";
+import service10 from "../assets/service10.png";
 import { sendEmail } from './EmailService';
 
 const Counselling = () => {

@@ -3,8 +3,8 @@ import axios from 'axios';
 import { Accordion } from 'flowbite-react';
 import faqsimagebg from '../assets/faqs.png';
 import homebgsm from '../assets/homebgsm.png';
-import Logo from 'G:/Projects/Freelancing/unithink/Client/src/assets/logo.jpg'; // Import your logo image
-import 'G:/Projects/Freelancing/unithink/Client/src/pages/CountryDetails.css'
+import Logo from '../assets/logo.jpg'; // Import your logo image
+import '../pages/CountryDetails.css'
 import { Label, TextInput, Button, Select, Checkbox } from 'flowbite-react';
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
